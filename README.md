@@ -171,3 +171,5 @@ $finish called at time : 866 ns
 - **Name:** Lam Duy Loc
 - **Student ID:** SE190907
 - **Specialization:** Semiconductor & Integrated Circuit Design — FPT University
+- GitHub: https://github.com/LocLam134
+- Email: loc.slh11357@gmail.com
