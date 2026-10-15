@@ -161,7 +161,7 @@ $finish called at time : 866 ns
 
 ## 🚀 How to Run in Vivado
 1. Open **Vivado ML Edition** and create a new RTL project targeting `xc7vx485tffg1157-1`.
-2. Add all Verilog design files from `rtl/` as **Design Sources** and set `cpu_top.v` as the top module.
+2. Add all Verilog design files from `sources/` as **Design Sources** and set `cpu_top.v` as the top module.
 3. Add `tb_regression_88.v` and all `.mem` program files as **Simulation Sources**.
 4. Click **Run Simulation -> Run Behavioral Simulation** and inspect the **Tcl Console** for the `OVERALL VERDICT: PASSED (88 of 88 checks OK)` summary at `866 ns`.
 
